@@ -1,0 +1,11 @@
+#topContainer{
+    background-image: url("images/cloudCover.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+};
+
+#main {
+  
+  background-color: #254769;
+}
